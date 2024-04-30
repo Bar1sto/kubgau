@@ -29,7 +29,7 @@ class _NavigationExampleState extends State<NavigationExample> {
       body: IndexedStack(
         index: currentPageIndex,
         children: const <Widget>[
-          // Здесь размещаются ваши виджеты для каждой страницы навигации
+          
           // Например:
           // NewsPage(),
           // SchedulePage(),
